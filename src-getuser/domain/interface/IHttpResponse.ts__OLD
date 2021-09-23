@@ -1,0 +1,4 @@
+// interface IHttpClient {
+//   get(): Promise<HttpReponse>;
+//   post();
+// }
